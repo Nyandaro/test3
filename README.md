@@ -1,2 +1,1 @@
-# test4
-wx.grid
+wx.grid 練習
